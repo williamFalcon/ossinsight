@@ -5,8 +5,8 @@ items:
   - huggingface/transformers
   - opencv/opencv
   - pytorch/pytorch
-  - Lightning-AI/lightning
   - keras-team/keras
+  - Lightning-AI/lightning
   - scikit-learn/scikit-learn
   - ageitgey/face_recognition
   - BVLC/caffe
